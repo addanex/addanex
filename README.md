@@ -102,9 +102,9 @@ Organization, Object Oriented Programming, Computational Methods, Computer progr
   <tr>
     <td>🌍 <b>Location</b>: Addis Ababa, Ethiopia</td>
     <td>🔗 <b>Socials</b>: 
-        <a href="https://x.com/adacode001">X</a> | 
+        <a href="https://x.com/yosefalemu007">X</a> | 
         <a href="https://web.whatsapp.com/yosefalemu007">WhatsApp</a> | 
-        <a href="https://t.me/Arybs007">Telegram</a>
+        <a href="https://t.me/yosefalemu007">Telegram</a>
     </td>
   </tr>
   <tr>
