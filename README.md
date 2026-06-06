@@ -30,7 +30,8 @@
   <tr>
     <td>🌍 <b>Location</b>: Addis Ababa, Ethiopia</td>
     <td>🔗 <b>Socials</b>: 
-        <a href="https://x.com/josbuild">X</a> | 
+        <a href="https://x.com/josbuild">X</a> |
+        <a href="https://www.linkedin.com/in/yosef-alemu">Linkedin</a> |
         <a href="https://web.whatsapp.com/yosefalemu007">WhatsApp</a> | 
         <a href="https://t.me/josbuild">Telegram</a>
     </td>
