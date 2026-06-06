@@ -30,12 +30,9 @@
   <tr>
     <td>🌍 <b>Location</b>: Addis Ababa, Ethiopia</td>
     <td>🔗 <b>Socials</b>: 
-        <a href="https://x.com/yosefalemu007">X</a> | 
+        <a href="https://x.com/josbuild">X</a> | 
         <a href="https://web.whatsapp.com/yosefalemu007">WhatsApp</a> | 
-        <a href="https://t.me/yosefalemu007">Telegram</a>
+        <a href="https://t.me/josbuild">Telegram</a>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2">🌐 <b>Portfolio</b>: <a href="https://portfolio-site-six-dusky.vercel.app/">yosefalemu.com</a></td>
   </tr>
 </table>
